@@ -1,0 +1,4 @@
+pandas==1.3.5
+ipykernel
+ipywidgets
+openai==1.11.1
