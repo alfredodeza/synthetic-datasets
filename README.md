@@ -20,7 +20,7 @@ source .venv/bin/activate
 Here is a summary of what this repository will use:
 
 1. [Llamafile](https://github.com/Mozilla-Ocho/llamafile) for the LLM (alternatively you can use an OpenAI API compatible key and endpoint)
-1. [OpenAI's Python API](https://pypi.org/project/openai/) to connect to the LLM after retrieving the vectors response from Qdrant
+1. [OpenAI's Python API](https://pypi.org/project/openai/) to connect to the LLM 
 1. A large language model (LLM) to generate synthetic data like [Mixtral](https://huggingface.co/jartine/Mixtral-8x7B-Instruct-v0.1-llamafile/resolve/main/mixtral-8x7b-instruct-v0.1.Q5_K_M.llamafile?download=true) or using an OpenAI API based service. 
 
 ## Lessons
